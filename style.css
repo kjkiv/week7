@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(31, 70, 31, 0.948);
+}
+
+h1{
+    color:rgb(188, 157, 117);
+}
+
+div{
+    color:rgb(188, 157, 117);
+    border-style: solid; 
+    border-color:rgb(188, 157, 117); 
+    border-radius: 5px;
+    text-align: center;
+    text-decoration-style: double;
+    
+    
+}
+
+a{
+    color:rgb(188, 157, 117);
+}
+
+p{
+    color:rgb(188, 157, 117); 
+   text-decoration: underline;
+}
+
+h2{color:rgb(188, 157, 117);
+    
+
+   
+
+
+}
+
+h3{
+    color:rgb(188, 157, 117);
+}
+
+h4{
+    color:rgb(188, 157, 117);
+    text-decoration-line: underline;
+    
+}
+
+h5{
+    color:rgb(188, 157, 117);
+    text-align: center;
+}
+
+li{
+    color:rgb(188, 157, 117);
+    padding-bottom: 8px;
+    text-decoration: underline;
+    
+}
+
+th, td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+    color: rgb(188, 157, 117);
+    
+}
